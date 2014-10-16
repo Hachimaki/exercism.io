@@ -1,0 +1,3 @@
+D:/exercism.io/cpp/word-count/CMakeFiles/ALL_BUILD.dir
+D:/exercism.io/cpp/word-count/CMakeFiles/ZERO_CHECK.dir
+D:/exercism.io/cpp/word-count/CMakeFiles/word-count.dir

@@ -1,0 +1,35 @@
+# CMake generation dependency list for this directory.
+D:/exercism.io/cpp/word-count/CMakeLists.txt
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeDetermineSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeSystem.cmake.in
+D:/exercism.io/cpp/word-count/CMakeFiles/3.0.2/CMakeSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeDetermineCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeDetermineCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/Platform/Windows-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeDetermineCompilerId.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CompilerId/VS-10.vcxproj.in
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeFindBinUtils.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeClDeps.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeCXXCompiler.cmake.in
+D:/exercism.io/cpp/word-count/CMakeFiles/3.0.2/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeDetermineRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeRCCompiler.cmake.in
+D:/exercism.io/cpp/word-count/CMakeFiles/3.0.2/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeTestRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeTestCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeTestCompilerCommon.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeDetermineCompilerABI.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeCXXCompilerABI.cpp
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/CMakeCXXCompiler.cmake.in
+D:/exercism.io/cpp/word-count/CMakeFiles/3.0.2/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.0/Modules/FindBoost.cmake

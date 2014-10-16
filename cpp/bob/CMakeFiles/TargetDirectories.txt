@@ -1,0 +1,3 @@
+D:/exercism.io/cpp/bob/CMakeFiles/ALL_BUILD.dir
+D:/exercism.io/cpp/bob/CMakeFiles/ZERO_CHECK.dir
+D:/exercism.io/cpp/bob/CMakeFiles/bob.dir

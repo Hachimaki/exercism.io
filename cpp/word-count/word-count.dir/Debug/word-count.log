@@ -1,0 +1,17 @@
+﻿Build started 10/7/2014 2:11:12 PM.
+     1>Project "D:\exercism.io\cpp\word-count\word-count.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\boost\boost_1_56_0" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"word-count.dir\Debug\\" /Fd"word-count.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt word_count_test.cpp word_count.cpp
+         word_count_test.cpp
+         word_count.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\exercism.io\cpp\word-count\Debug\word-count.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\Program Files (x86)\Boost\boost_1_56_0\stage\lib\libboost_unit_test_framework-vc120-mt-gd-1_56.lib" "C:\Program Files (x86)\Boost\boost_1_56_0\stage\lib\libboost_date_time-vc120-mt-gd-1_56.lib" "C:\Program Files (x86)\Boost\boost_1_56_0\stage\lib\libboost_regex-vc120-mt-gd-1_56.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/exercism.io/cpp/word-count/Debug/word-count.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/exercism.io/cpp/word-count/Debug/word-count.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug "word-count.dir\Debug\word_count_test.obj"
+         "word-count.dir\Debug\word_count.obj"
+     1>word_count_test.obj : error LNK2019: unresolved external symbol "public: static class std::map<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,struct std::less<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >,class std::allocator<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,int> > > __cdecl word_count::words(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?words@word_count@@SA?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@std@@@2@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z) referenced in function "public: void __thiscall counts_one_word::test_method(void)" (?test_method@counts_one_word@@QAEXXZ)
+     1>D:\exercism.io\cpp\word-count\Debug\word-count.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "D:\exercism.io\cpp\word-count\word-count.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:08.16

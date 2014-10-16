@@ -1,0 +1,125 @@
+The system is: Windows - 6.2 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.30723.0
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/30/2014 9:37:01 PM.
+Project "D:\exercism.io\cpp\word-count\CMakeFiles\3.0.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\exercism.io\cpp\word-count\CMakeFiles\3.0.2\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "D:\exercism.io\cpp\word-count\CMakeFiles\3.0.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.11
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+The CXX compiler identification is MSVC, found in "D:/exercism.io/cpp/word-count/CMakeFiles/3.0.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/exercism.io/cpp/word-count/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1295691268.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.30723.0
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/30/2014 9:37:05 PM.
+Project "D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\cmTryCompileExec1295691268.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1295691268.dir\Debug\".
+  Creating directory "D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1295691268.dir\Debug\cmTryCom.E7AB70D6.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1295691268.dir\Debug\cmTryCom.E7AB70D6.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1295691268.dir\Debug\\" /Fd"cmTryCompileExec1295691268.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue testCXXCompiler.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.30723 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1295691268.dir\Debug\\" /Fd"cmTryCompileExec1295691268.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1295691268.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/exercism.io/cpp/word-count/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1295691268.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/exercism.io/cpp/word-count/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1295691268.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec1295691268.dir\Debug\testCXXCompiler.obj
+  cmTryCompileExec1295691268.vcxproj -> D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1295691268.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec1295691268.dir\Debug\cmTryCom.E7AB70D6.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1295691268.dir\Debug\cmTryCom.E7AB70D6.tlog\cmTryCompileExec1295691268.lastbuildstate".
+Done Building Project "D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\cmTryCompileExec1295691268.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:04.32
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/exercism.io/cpp/word-count/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3986948764.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.30723.0
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/30/2014 9:37:10 PM.
+Project "D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\cmTryCompileExec3986948764.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec3986948764.dir\Debug\".
+  Creating directory "D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3986948764.dir\Debug\cmTryCom.ED7E75C3.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec3986948764.dir\Debug\cmTryCom.ED7E75C3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3986948764.dir\Debug\\" /Fd"cmTryCompileExec3986948764.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.0\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.30723 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3986948764.dir\Debug\\" /Fd"cmTryCompileExec3986948764.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.0\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3986948764.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/exercism.io/cpp/word-count/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3986948764.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/exercism.io/cpp/word-count/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3986948764.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3986948764.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTryCompileExec3986948764.vcxproj -> D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3986948764.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec3986948764.dir\Debug\cmTryCom.ED7E75C3.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec3986948764.dir\Debug\cmTryCom.ED7E75C3.tlog\cmTryCompileExec3986948764.lastbuildstate".
+Done Building Project "D:\exercism.io\cpp\word-count\CMakeFiles\CMakeTmp\cmTryCompileExec3986948764.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:04.02
+
+
